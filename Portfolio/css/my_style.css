@@ -1,0 +1,80 @@
+@charset "utf-8";
+.navigation_list    {
+    display: inline;
+    border-style:  none;
+    color: #070707;
+    text-align: center;
+}
+.banner {
+    margin-bottom: 0;
+    background-color: #99CFD5;
+    max-height: 200px;
+    height: 30px;
+    background-image: url(../assets/koi_2.jpg);
+    text-align: center;
+}
+.navigation_div {
+    background-color: #1FC0CD;
+    margin-top: 0;
+    text-align: center;
+    border-collapse: collapse;
+    float: none;
+    background-image: url(../assets/koi_2.jpg);
+}
+
+.body {
+    background-color: #F8F8F9;
+	min-height: 100vh;
+}
+
+
+.body_index {
+    min-height: 100vh;
+    text-align: center;
+    background-image: url(../assets/koi_3.jpg);
+}
+
+.div {
+}
+.footer {
+    background-color: #99CFD5;
+}
+
+.div_index_center{
+	position: relative;
+	left:35px;
+	top: 150px;
+}
+
+.input_contact {
+    width : 95%
+}
+
+.education_table_column_width {
+    width: 30%;
+}
+
+.education_table_width {
+    width: 100%;
+    border: 1px solid;
+}
+
+.research_table_width {
+    width: 100%;
+    border: 1px solid;
+}
+
+.research_table_column {
+    text-align:center;
+ 
+}
+
+.contact_table {
+    border:1px solid;
+    width :50%
+}
+
+.contact_column_button{
+    text-align:center;
+    column-span:all;
+}

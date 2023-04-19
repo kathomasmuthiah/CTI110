@@ -1,0 +1,40 @@
+@charset "utf-8";
+.img_float {
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    float: none;
+
+
+
+
+}
+.img_float_right {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+}
+
+
+
+@media screen and (min-width:481px){
+.img_float {
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+.img_float_right {
+    float: right;
+
+}
+
+	.img_div {
+		position: relative;
+		left:10px;
+		top:50px;
+	}
+
+}
